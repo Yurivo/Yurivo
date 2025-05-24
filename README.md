@@ -27,7 +27,7 @@
 **Инструменты и технологии**:
 - IntelliJ IDEA
 - Git & GitHub
-- Postman, Docker (основы)
+- Docker (основы)
 - JavaFX (GUI)
 
 ---
