@@ -35,8 +35,6 @@
 ### 📈 Статистика GitHub:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yurivo&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurivo&layout=compact&theme=default" height="160" />
-</p>
 
 ---
 
